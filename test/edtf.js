@@ -5,7 +5,7 @@ import edtf, {
   Season,
   Set,
   Year
-} from '../index.js'
+} from '../src/index.js'
 
 describe('edtf', () => {
 
